@@ -26,3 +26,7 @@ of orders (positions) are being closed. This event forces the stock price in a o
 <img width="800px" height="auto" src="https://github.com/SeanCollymoreJr/VirtualStockMarketSimulator/assets/174896134/93015661-d457-43b3-8b93-a9db3e5f7779" style="padding-right:10px;" />
 
 As time progressed the market continued to fall further and further.
+
+<img width="800px" height="auto" src="https://github.com/SeanCollymoreJr/VirtualStockMarketSimulator/assets/174896134/024ef312-abe6-4bcc-b2fc-b43248aac78b" style="padding-right:10px;" />
+
+Notice how the randomized buying and selling of the stock STILL produces patterns despite the chaotic nature of the trading! AWESOME!
